@@ -1,0 +1,14 @@
+{
+  "name": "less",
+  "version": "1.0.0",
+  "description": "Less",
+  "main": "index.js",
+  "scripts": {
+    "less": "lessc ./less/source/source.less ./less/build/build.css"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "less": "^4.2.0"
+  }
+}
